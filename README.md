@@ -1,1 +1,2 @@
 # belly-button-challenge
+This challenge was extremely challenging for me. I used two different tutoring sessions with Kourt Bailey in order to work through the challenge. I also relied on the ask the class slack channel, as well as various web sources (W3 schools, stack overflow, github). 
